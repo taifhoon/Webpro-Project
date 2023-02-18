@@ -1,2 +1,3 @@
 # Webpro-Project
-Project with database WebApp (Web About Buy Ticket Movie see detail movie to buy)
+Platform Sell Movies Tickets Online
+Frontend Webpage Using VueJS And Backend Using JS Connect to Database(MySQL)
